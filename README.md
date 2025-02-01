@@ -2,7 +2,6 @@
 
 ### Olá! Eu Sou o Samuel Higino
 
-[![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](samuelhigino100@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-higino-0393a231b/)
 
 ![SamuelHigino GitHub Status](https://github-readme-stats.vercel.app/api?username=samuelhigino940&show_icons=true&theme=radical)
