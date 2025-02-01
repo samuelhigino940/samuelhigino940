@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá 👋
 
 ### Olá! Eu Sou o Samuel Higino
 
